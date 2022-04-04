@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sorting-Simulator/static/css/main.cdae0481.css",
+    "main.js": "/Sorting-Simulator/static/js/main.17b15111.js",
+    "static/js/787.15d63095.chunk.js": "/Sorting-Simulator/static/js/787.15d63095.chunk.js",
+    "index.html": "/Sorting-Simulator/index.html",
+    "main.cdae0481.css.map": "/Sorting-Simulator/static/css/main.cdae0481.css.map",
+    "main.17b15111.js.map": "/Sorting-Simulator/static/js/main.17b15111.js.map",
+    "787.15d63095.chunk.js.map": "/Sorting-Simulator/static/js/787.15d63095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdae0481.css",
+    "static/js/main.17b15111.js"
+  ]
+}
